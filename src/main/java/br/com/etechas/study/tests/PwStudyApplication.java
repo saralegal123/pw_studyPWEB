@@ -1,6 +1,5 @@
-package br.com.etechas.study.entity.enums;
+package br.com.etechas.study.entity.tests;
 
-import br.com.etechas.study.entity.Disciplina;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
