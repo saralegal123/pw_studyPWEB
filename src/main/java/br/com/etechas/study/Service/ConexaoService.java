@@ -1,6 +1,7 @@
-package br.com.etechas.study.entity.Service;
+package br.com.etechas.study.Service;
+
 import br.com.etechas.study.entity.Conexao;
-import br.com.etechas.study.entity.repository.ConexaoRepository;
+import br.com.etechas.study.repository.ConexaoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;

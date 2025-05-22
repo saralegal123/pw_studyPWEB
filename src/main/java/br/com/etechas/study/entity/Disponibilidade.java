@@ -1,6 +1,6 @@
 package br.com.etechas.study.entity;
 
-import br.com.etechas.study.entity.enums.DiaSemanaEnum;
+import br.com.etechas.study.enums.DiaSemanaEnum;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

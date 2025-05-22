@@ -1,7 +1,7 @@
-package br.com.etechas.study.entity.tests;
+package br.com.etechas.study.tests;
 
+import br.com.etechas.study.Service.DisciplinaService;
 import br.com.etechas.study.entity.Disciplina;
-import br.com.etechas.study.service.DisciplinaService;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package br.com.etechas.study.entity.Service;
+package br.com.etechas.study.Service;
 
 import br.com.etechas.study.entity.Disciplina;
 import br.com.etechas.study.repository.DisciplinaRepository;

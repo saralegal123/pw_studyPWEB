@@ -1,4 +1,4 @@
-package br.com.etechas.study.entity.enums;
+package br.com.etechas.study.enums;
 
 public enum DiaSemanaEnum {
     SEGUNDA,
