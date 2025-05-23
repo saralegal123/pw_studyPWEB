@@ -12,6 +12,6 @@ public class TesteDisciplina {
 
         List<Disciplina> disciplinas = new ArrayList<>();
         disciplinas = service.listar();
-        disciplinas.forEach(disc -> System.out.println(disc.getNome()));
+     //   disciplinas.forEach(disc -> System.out.println(disc.getNome()));
     }
 }

@@ -3,6 +3,7 @@ package br.com.etechas.study.controller;
 import br.com.etechas.study.Service.DisciplinaService;
 import br.com.etechas.study.entity.Disciplina;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
@@ -14,6 +15,7 @@ public class DisciplinaController {
     @Autowired
     private DisciplinaService service;
 
+    @GetMapping
     public List<Disciplina> listar(){
         return service.listar();
     }
